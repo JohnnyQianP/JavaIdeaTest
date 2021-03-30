@@ -6,11 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springstudy" />
+        <module name="secondemo" />
+        <module name="springcloudstudy" />
         <module name="demotest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demotest" target="1.8" />
+      <module name="seconddemo" target="1.5" />
+      <module name="secondemo" target="1.8" />
+      <module name="springcloudstudy" target="1.5" />
+      <module name="springstudy" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

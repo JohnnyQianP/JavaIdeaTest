@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="C:/DocPlay/Doc" />
+    <option name="OTHER_OPTIONS" value="-encoding UTF-8 -charset UTF-8" />
+    <option name="LOCALE" value="zh_CN" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/demotest/pom.xml" />
+        <option value="$PROJECT_DIR$/secondemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springstudy/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudstudy/pom.xml" />
       </list>
     </option>
   </component>
